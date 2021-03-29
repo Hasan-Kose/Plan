@@ -308,21 +308,21 @@ HTML - QUERY_TIME_FROM                          || >from</label>
 HTML - QUERY_TIME_TO                            || >to</label>
 HTML - QUERY_VIEW                               ||   View:
 HTML - QUERY_ZERO_RESULTS                       || Query produced 0 results
-HTML - REGISTER                                 || Register
+HTML - REGISTER                                 || Kayıt ol
 HTML - REGISTER_CHECK_FAILED                    || Checking registration status failed: 
 HTML - REGISTER_COMPLETE                        || Complete Registration
 HTML - REGISTER_COMPLETE_INSTRUCTIONS_1         || You can now finish registering the user.
 HTML - REGISTER_COMPLETE_INSTRUCTIONS_2         || Code expires in 15 minutes
 HTML - REGISTER_COMPLETE_INSTRUCTIONS_3         || Use the following command in game to finish registration:
 HTML - REGISTER_COMPLETE_INSTRUCTIONS_4         || Or using console:
-HTML - REGISTER_CREATE_USER                     || Create a new user
-HTML - REGISTER_FAILED                          || Registration failed: 
+HTML - REGISTER_CREATE_USER                     || Yeni bir kullanıcı oluşturun
+HTML - REGISTER_FAILED                          || Kayıt başarısız: 
 HTML - REGISTER_HAVE_ACCOUNT                    || Already have an account? Login!
 HTML - REGISTER_PASSWORD_TIP                    || Password should be more than 8 characters, but there are no limitations.
 HTML - REGISTER_SPECIFY_PASSWORD                || You need to specify a Password
-HTML - REGISTER_SPECIFY_USERNAME                || You need to specify a Username
+HTML - REGISTER_SPECIFY_USERNAME                || Bir kullanıcı adı belirtmelisiniz
 HTML - REGISTER_USERNAME_LENGTH                 || Username can be up to 50 characters, yours is 
-HTML - REGISTER_USERNAME_TIP                    || Username can be up to 50 characters.
+HTML - REGISTER_USERNAME_TIP                    || Kullanıcı adı 50 karaktere kadar olabilir.
 HTML - SESSION                                  || Oturum
 HTML - SIDE_GEOLOCATIONS                        || Coğrafi Konumlar
 HTML - SIDE_INFORMATION                         || INFORMATION
@@ -336,18 +336,18 @@ HTML - SIDE_PLAYERBASE_OVERVIEW                 || Playerbase Overview
 HTML - SIDE_PLUGINS                             || PLUGINS
 HTML - SIDE_PVP_PVE                             || PvP & PvE
 HTML - SIDE_SERVERS                             || Sunucular
-HTML - SIDE_SERVERS_TITLE                       || SERVERS
+HTML - SIDE_SERVERS_TITLE                       || SUNUCULAR
 HTML - SIDE_SESSIONS                            || Oturumlar
 HTML - SIDE_TO_MAIN_PAGE                        || to main page
-HTML - TEXT_CLICK_TO_EXPAND                     || Click to expand
-HTML - TEXT_CONTRIBUTORS_CODE                   || code contributor
-HTML - TEXT_CONTRIBUTORS_LOCALE                 || translator
+HTML - TEXT_CLICK_TO_EXPAND                     || Genişletmek için tıklayın
+HTML - TEXT_CONTRIBUTORS_CODE                   || kod katkıda bulunan
+HTML - TEXT_CONTRIBUTORS_LOCALE                 || çevirmen
 HTML - TEXT_CONTRIBUTORS_MONEY                  || Extra special thanks to those who have monetarily supported the development.
 HTML - TEXT_CONTRIBUTORS_THANKS                 || In addition following <span class="col-plan">awesome people</span> have contributed:
-HTML - TEXT_DEV_VERSION                         || This version is a DEV release.
-HTML - TEXT_DEVELOPED_BY                        || is developed by
-HTML - TEXT_FIRST_SESSION                       || First session
-HTML - TEXT_LICENSED_UNDER                      || Player Analytics is developed and licensed under
+HTML - TEXT_DEV_VERSION                         || Bu sürüm bir DEV sürümüdür.
+HTML - TEXT_DEVELOPED_BY                        || tarafından geliştirilmiştir
+HTML - TEXT_FIRST_SESSION                       || İlk seans
+HTML - TEXT_LICENSED_UNDER                      || Oyuncu Analizi, altında geliştirilir ve lisanslanır
 HTML - TEXT_METRICS                             || bStats Metrics
 HTML - TEXT_NO_EXTENSION_DATA                   || No Extension Data
 HTML - TEXT_NO_LOW_TPS                          || No low tps spikes
@@ -356,16 +356,16 @@ HTML - TEXT_NO_SERVERS                          || No servers found in the datab
 HTML - TEXT_PLUGIN_INFORMATION                  || Information about the plugin
 HTML - TEXT_PREDICTED_RETENTION                 || This value is a prediction based on previous players
 HTML - TEXT_SERVER_INSTRUCTIONS                 || It appears that Plan is not installed on any game servers or not connected to the same database. See <a href="https://github.com/plan-player-analytics/Plan/wiki">wiki</a> for Network tutorial.
-HTML - TEXT_VERSION                             || A new version has been released and is now available for download.
+HTML - TEXT_VERSION                             || Yeni bir sürüm yayınlandı ve artık indirilebilir.
 HTML - TITLE_30_DAYS                            || 30 days
 HTML - TITLE_30_DAYS_AGO                        || 30 days ago
 HTML - TITLE_ALL                                || Tamamı
 HTML - TITLE_ALL_TIME                           || All Time
 HTML - TITLE_AS_NUMBERS                         || as Numbers
-HTML - TITLE_AVG_PING                           || Average Ping
-HTML - TITLE_BEST_PING                          || Best Ping
+HTML - TITLE_AVG_PING                           || Ortalama Ping
+HTML - TITLE_BEST_PING                          || En İyi Ping
 HTML - TITLE_CALENDAR                           ||  Takvim
-HTML - TITLE_CONNECTION_INFO                    || Connection Information
+HTML - TITLE_CONNECTION_INFO                    || Bağlantı Bilgileri
 HTML - TITLE_COUNTRY                            || Ülke
 HTML - TITLE_CPU_RAM                            || CPU & RAM
 HTML - TITLE_CURRENT_PLAYERBASE                 || Current Playerbase
@@ -376,7 +376,7 @@ HTML - TITLE_GRAPH_NETWORK_ONLINE_ACTIVITY      || Network Online Activity
 HTML - TITLE_GRAPH_PUNCHCARD                    || Punchcard for 30 days
 HTML - TITLE_INSIGHTS                           || Insights for 30 days
 HTML - TITLE_IS_AVAILABLE                       || is Available
-HTML - TITLE_JOIN_ADDRESSES                     || Join Addresses
+HTML - TITLE_JOIN_ADDRESSES                     || Adreslere Katıl
 HTML - TITLE_LAST_24_HOURS                      || Son 24 saat
 HTML - TITLE_LAST_30_DAYS                       || Son 30 gün
 HTML - TITLE_LAST_7_DAYS                        || Son 7 gün
@@ -386,7 +386,7 @@ HTML - TITLE_MOST_PLAYED_WORLD                  || Most played World
 HTML - TITLE_NETWORK                            || Network
 HTML - TITLE_NETWORK_AS_NUMBERS                 || Network as Numbers
 HTML - TITLE_NOW                                || Now
-HTML - TITLE_ONLINE_ACTIVITY                    || Online Activity
+HTML - TITLE_ONLINE_ACTIVITY                    || Çevrimiçi Aktivite
 HTML - TITLE_ONLINE_ACTIVITY_AS_NUMBERS         || Online Activity as Numbers
 HTML - TITLE_ONLINE_ACTIVITY_OVERVIEW           || Online Activity Overview
 HTML - TITLE_PERFORMANCE_AS_NUMBERS             || Performance as Numbers
@@ -415,7 +415,7 @@ HTML - TITLE_VERSION                            || Versiyon
 HTML - TITLE_WEEK_COMPARISON                    || Hafta Karşılaştırması
 HTML - TITLE_WORLD                              || World Load
 HTML - TITLE_WORLD_PLAYTIME                     || Dünya Oyun Süresi
-HTML - TITLE_WORST_PING                         || Worst Ping
+HTML - TITLE_WORST_PING                         || En Kötü Ping
 HTML - TOTAL_ACTIVE_TEXT                        || Toplam Aktiflik
 HTML - TOTAL_AFK                                || Toplam AFKlık
 HTML - TOTAL_PLAYERS                            || Toplam Oyuncular
@@ -429,7 +429,7 @@ HTML - USER_DOES_NOT_EXIST                      || Böyle Bir Kullanıcı Yok
 HTML - USER_INFORMATION_NOT_FOUND               || Kayıt başarısız oldu, tekrar deneyin (Kodun süresi 15 dakika sonra dolar)
 HTML - USER_PASS_MISMATCH                       || Kullanıcı adı ve şifre uyuşmuyor
 HTML - Version Change log                       || Değişim günlüğünü incele
-HTML - Version Current                          || You have version ${0}
+HTML - Version Current                          || ${0} sürüme sahipsin.
 HTML - Version Download                         || Download Plan-${0}.jar
 HTML - Version Update                           || Güncelleme
 HTML - Version Update Available                 || Version ${0} is Available!
